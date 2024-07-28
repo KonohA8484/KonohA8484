@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @KonohA8484
-<picture>
+
+
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hi, I 'm KonohA
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+<h2 align="center">Full stack Developer</h2>
+<img src="/assets/images/horizontal-divider-gradient.gif">
+<p align="center">
+  <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
+</p>
+<img src="/assets/images/horizontal-divider-gradient.gif">
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-
 </picture>
-<h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
+<img src="/assets/images/horizontal-divider-gradient.gif">
+<h1 align="center" font="Damion"> ✨ My best skills ✨ :</h1>
+ <br> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=300&size=30&duration=1000&pause=3000&center=true&random=true&width=500&lines=Web+site+development;Android+app+development;Artificial+intelligence;" alt="Typing SVG" />
+</p>
+
+
 <p align="center">
 <table align="center">
   <tr>
@@ -50,10 +68,6 @@
       <br>WordPress
     </td>
   </tr>
-
-
-
-
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
@@ -76,10 +90,6 @@
       <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
     </td>
@@ -95,20 +105,12 @@
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="nestjs" />
       <br>Nest
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=apollo" width="45" height="45" alt="Apollo" />
-      <br>Apollo
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>RESTful API
@@ -134,46 +136,6 @@
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
-    </td>
-  </tr>
-
-
-
-
-
-
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Next.js" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Next.js" />
-      <br>Golang
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=actix" width="45" height="45" alt="Next.js" />
-      <br>Actix
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Next.js" />
-      <br>GCP
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Next.js" />
-      <br>Kafka
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Next.js" />
-      <br>Cypress
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="electron" />
       <br>Electron
     </td>
@@ -182,15 +144,15 @@
       <br>Firebase
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="45" height="45" alt="Next.js" />
-      <br>RabbitMQ
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
     </td>
   </tr>
-
-
-
-
-
+ 
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
@@ -205,24 +167,12 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="55" height="55" />
-      <br>Redis
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
       <br>SQLite
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Next.js" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Next.js" />
-      <br>Kubernetes
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
@@ -232,8 +182,6 @@
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Next.js" />
       <br>Ruby
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
       <br>C#
@@ -249,10 +197,8 @@
   </tr>
 </table>
 </p>
-<hr>
 <br>
 </div>
-
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 
