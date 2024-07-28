@@ -11,19 +11,11 @@ Hi, I 'm KonohA
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 </p>
 <img src="/assets/images/horizontal-divider-gradient.gif">
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-<img src="/assets/images/horizontal-divider-gradient.gif">
 <h1 align="center" font="Damion"> ✨ My best skills ✨ :</h1>
  <br> 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=300&size=30&duration=1000&pause=3000&center=true&random=true&width=500&lines=Web+site+development;Android+app+development;Artificial+intelligence;" alt="Typing SVG" />
 </p>
-
-
 <p align="center">
 <table align="center">
   <tr>
