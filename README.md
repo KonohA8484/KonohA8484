@@ -14,7 +14,7 @@ Hi, I 'm KonohA
 <h1 align="center" font="Damion"> ✨ My best skills ✨ :</h1>
  <br> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=300&size=30&duration=1000&pause=3000&center=true&random=true&width=500&lines=Web+site+development;Android+app+development;Artificial+intelligence;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=300&size=30&duration=1000&pause=3000&center=true&random=true&width=500&lines=Web+site+development;Mobile+app+development;Artificial+intelligence;" alt="Typing SVG" />
 </p>
 <p align="center">
 <table align="center">
